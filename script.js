@@ -23,14 +23,14 @@ const opacidadeOlhos = 0.3;
 
 const categorias = {
     Frutas: ["abacaxi", "abacate", "amora", "banana", "bacuri", "buriti", "caju", "carambola", "cacau", "damasco", 
-            "durião", "embaúba", "figo", "framboesa", "goiaba", "graviola", "groselha", "laranja", "limão", "lichia",
-            "mamão", "melancia", "marmelo", "kiwi", "pera", "pêssego", "physalis", "tâmara", "tamarindo", "tangerina"],
+            "duriao", "embauba", "figo", "framboesa", "goiaba", "graviola", "groselha", "laranja", "limao", "lichia",
+            "mamão", "melancia", "marmelo", "kiwi", "pera", "pessego", "tâmara", "tamarindo", "tangerina"],
 
     Profissoes: ["engenheiro", "programador", "professor", "advogado", "pedreiro", "vendedor", "analista", "caixa",
                 "medico", "enfermeiro", "motorista", "atendente"],
 
     Animais: ["cachorro", "gato", "papagaio", "cavalo", "elefante", "galinha", "girafa", "cobra", "jacare", "foca",
-             "flamingo", "jaguar", "leão", "ovelha", "orangotango", "sardinha"],
+             "flamingo", "jaguar", "leao", "ovelha", "orangotango", "sardinha"],
              
     Cores: ["preto", "branco", "vermelho", "laranja", "verde", "azul", "marrom", "roxo", "amarelo", "magenta"], 
     Carros: ["gol", "vectra", "fox", "onix", "uno", "palio", "corsa", "jeep", "polo", "prisma"],
