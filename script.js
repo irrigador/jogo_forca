@@ -48,7 +48,7 @@ function retornaCategoria(){
 }
 
 function exibeCategoria(){
-    categoria.innerHTML = retornaCategoria();
+    categoria.innerHTML =  retornaCategoria();
 }
 
 function retornaNumAleatorio(max){
@@ -162,6 +162,7 @@ function iniciaJogo(){
     definePalavraProposta();
     letrasErradas.innerHTML = "Letras erradas: ";
     window.addEventListener("keypress", retornaLetra);
+  //  categoria.innerHTML = "Tema: " + retornaCategoria();
     
     
 }
